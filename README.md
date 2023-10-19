@@ -54,13 +54,13 @@
  📁 Frameworks:
   <p align="center">
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=django,fastapi,actix,react,svelte,tailwind,tauri,qt,pytorch,tensorflow&perline=10"/>
+   <img src="https://skillicons.dev/icons?i=django,fastapi,actix,react,next,tailwind,svelte,tauri,qt,pytorch,tensorflow&perline=10"/>
   </a>
 </p>
  🗃️ Databases:
  <p align="center">
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,prometheus&perline=5"/>
+   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,prometheus,cassandra&perline=6"/>
   </a>
 </p>
  🎮 Game Engines:
@@ -72,13 +72,13 @@
  🐳 DevOps:
    <p align="center">
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=docker,bash,jenkins,grafana,k8s&perline=9"/>
+   <img src="https://skillicons.dev/icons?i=docker,k8s,bash,jenkins,grafana&perline=9"/>
   </a>
 </p>
 ⚙️ Utility:
    <p align="center">
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=ps,git,github,md,linux,nginx,vite,wasm&perline=9"/>
+   <img src="https://skillicons.dev/icons?i=ps,git,github,githubactions,md,linux,nginx,vite,wasm&perline=9"/>
   </a>
 </p>
 </details>
