@@ -9,5 +9,6 @@
   - [LightPack](https://github.com/psieg/Lightpack)
   - [YandexMusic](https://github.com/dedpnd/yaradio-yamusic)
   - [Transmission](https://github.com/transmission/transmission)
+  - [Joplin](https://github.com/laurent22/joplin/)
 --------
 ### [BACK](main.md)
