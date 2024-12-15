@@ -86,17 +86,10 @@
 ## 🍒 Recent Blog Posts
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mgrfmjfpnur73iyz7d2vlmrbm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mgrfmjfpnur73iyz7d2vlmrbm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" /></div>  
 
 
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/t1ltxz.gxd" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
 <p align="right">
